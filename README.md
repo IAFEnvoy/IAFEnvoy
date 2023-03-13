@@ -5,9 +5,3 @@
 <a href="https://github.com/IAFEnvoy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAFEnvoy&layout=compact&theme=dracula&locale=en" />
 </a>
-
-##### Also a Minecraft Player.
-
-<a href="https://plancke.io/hypixel/player/stats/IAFEnvoy">
-  <img src="https://gen.plancke.io/exp/IAFEnvoy.png" style="width:400px">
-</a>
